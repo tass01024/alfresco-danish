@@ -1,0 +1,6 @@
+# Danish localization of Alfresco 
+module.id=alfresco.da.dk
+module.version=@@module.version@@
+module.title=Alfresco Danish
+module.description=Danish localization of Alfresco @@edition@@ @@version.alfresco@@
+ 

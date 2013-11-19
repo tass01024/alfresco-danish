@@ -1,0 +1,84 @@
+create	skabe
+Begins	Starter
+with	med
+Than	end
+Greater	Større
+aspect	aspekt
+author	forfatter
+browse	gennemse
+company home	virksomheden
+dashboard	opslagstavle
+details	information	detaljer
+edit inline	indlejret editering
+email	email
+home space	personlig mappe
+inline editable	indlejret editerbar
+item	post
+items	poster
+All	Alle
+Any	Et hvert
+This	Dette
+Condition	Regel
+Added	Tilføjet
+javascript	javascript
+layered	flere lag
+mime type	mime-type
+preview	preview
+sandbox	sandkasse
+space	plads
+specialise	specialisere
+staging	trinvis godkendelse
+store	datalager
+sub-type	undertype
+sub-types	undertyper
+subject	emne
+Submit	Send
+Submitted	afsendt
+title	titel
+type	type
+user home	personlig mappe
+web project	webprojekt
+website	hjemmeside
+to	til
+Use	Brug
+when	når
+name	navn
+value	værdi
+rule	regel
+the rule	Reglen
+that	som
+specific	specifik
+property	egenskab
+content	indhold
+Comparison	Sammenligning
+Category	Kategori
+of	af
+or	eller
+and	og
+has	har
+Composite	sammensat
+Combine	Kombiner
+several	flere
+to	for
+more	mere
+complicated	kompliceret
+date	dato
+tag	mærke
+encoding	kodning
+Remove	Fjern
+workflow	workflow
+simple	simpel
+Add	Tilføj
+allow	tillade
+step	trin
+template	skabelon
+Templates	skabeloner
+embed	indlejre
+common	fælles
+fields	felter
+field	felt
+Alfresco	Alfresco
+the file	filen
+file	fil
+mandatory	obligatorisk
+task	opgave

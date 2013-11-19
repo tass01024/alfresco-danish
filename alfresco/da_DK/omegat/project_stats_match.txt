@@ -1,0 +1,9 @@
+12/19/12 1:19 PM
+            	Segments	Words	Characters (without spaces)	Characters (including spaces)	
+Repetitions:	    2609	 6068	                      33507	                        36974	
+Exact match:	       6	    8	                         52	                           54	
+95%-100%:   	       0	    0	                          0	                            0	
+85%-94%:    	       0	    0	                          0	                            0	
+75%-84%:    	       0	    0	                          0	                            0	
+50%-74%:    	       3	    6	                         27	                           30	
+No match:   	    6782	34807	                     184138	                       211714	

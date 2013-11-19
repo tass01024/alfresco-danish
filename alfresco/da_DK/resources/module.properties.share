@@ -1,0 +1,7 @@
+# Danish localization of Share module properties
+module.id=share.da.dk
+module.version=@@module.version@@
+module.title=Share Danish
+module.description=Danish localization of Share @@edition@@ @@version.alfresco@@
+
+ 
